@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: spring-boot-web-pf
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: michalcamona
+Implementation-Vendor-Id: pl.mica.spring.web.pf
+Build-Jdk: 1.8.0_91
+Implementation-URL: http://projects.spring.io/spring-boot/spring-boot-
+ web-pf/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
